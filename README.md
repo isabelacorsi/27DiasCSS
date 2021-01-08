@@ -12,7 +12,7 @@ Os desafios estão listados a seguir.
 3. nth-child()
 4. transform
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6753425690382671873-wIqe)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio01%20-%20Redes%20Sociais%20em%20Camadas)
 
