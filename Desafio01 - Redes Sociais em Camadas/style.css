@@ -1,0 +1,87 @@
+body{
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	background:  #D6DBDF;
+}
+
+ul {
+	position: absolute;
+	display: flex;
+}
+
+ul li {
+	position: relative;
+	list-style: none;
+	width: 100px;
+	height: 100px;
+	margin: 0 50px;
+	transform: rotate(-30deg) skew(10deg);
+	background: #ccc;
+}
+ul li span img{
+	height: 100%;
+	width: 100%;
+}
+
+ul li span{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: white;
+	transition: 0.8s;
+	display: flex;
+	align-items: center;
+	color: black;
+	font-size: 35px;
+}
+
+ul li:hover span {
+	box-shadow: -1px 1px 1px rgba(0, 0,0,.1);
+}
+
+ul li:hover span:nth-child(1){
+    transform: translate(0,0);
+    opacity: .2;
+}
+
+ul li:nth-child(1) span {
+	background: #3b5998;
+}
+
+ul li:hover span:nth-child(2){
+    transform: translate(10px, -10px);
+    opacity: 0.6;
+}
+
+ul li:nth-child(2) span{
+	background: #0e76a8;
+}
+
+ul li:hover span:nth-child(3){
+    transform: translate(20px, -20px);
+    opacity: 0.8;
+}
+
+ul li:nth-child(3) span{
+	background:  #1da1f2;
+}
+
+
+ul li:hover span:nth-child(4){
+    transform: translate(30px, -30px);
+    opacity: 1;
+}
+
+ul li:nth-child(4) span{
+   background: #E1306C;
+}
+
+ul li:nth-child(5) span{
+	background: #FF0000;
+}
+
+ul li:nth-child(6) span{
+	background: #6441a5;
+}
