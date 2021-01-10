@@ -17,3 +17,14 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio01%20-%20Redes%20Sociais%20em%20Camadas)
 
 ![desafio01](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio01%20-%20Redes%20Sociais%20em%20Camadas/gif.gif)
+
+## Desafio Dia 02 - Loading Animado 
+* Aprendizado: 
+1. animation;
+2. transform
+
+* [LinkedIn]()
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio02%20-%20Loading%20Animado)
+
+![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio02%20-%20Loading%20Animado/gif.gif)
