@@ -20,8 +20,9 @@ Os desafios estão listados a seguir.
 
 ## Desafio Dia 02 - Loading Animado 
 * Aprendizado: 
-1. animation;
-2. transform
+1. :before;
+2. translate;
+3. :hover.
 
 * [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6753829355652202496-DjWs)
 
