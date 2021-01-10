@@ -28,3 +28,14 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio02%20-%20Loading%20Animado)
 
 ![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio02%20-%20Loading%20Animado/gif%20(1).gif)
+
+## Desafio Dia 03 - Botão com Efeito 
+* Aprendizado: 
+1. animation;
+2. transform
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6754162563396775936-_pp1)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio03%20-%20Botão%20com%20Efeito)
+
+![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio03%20-%20Botão%20com%20Efeito/desafio04%20gif.gif)
