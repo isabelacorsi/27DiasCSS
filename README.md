@@ -20,9 +20,8 @@ Os desafios estão listados a seguir.
 
 ## Desafio Dia 02 - Loading Animado 
 * Aprendizado: 
-1. :before;
-2. translate;
-3. :hover.
+1. animation;
+2. transform
 
 * [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6753829355652202496-DjWs)
 
@@ -31,9 +30,11 @@ Os desafios estão listados a seguir.
 ![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio02%20-%20Loading%20Animado/gif%20(1).gif)
 
 ## Desafio Dia 03 - Botão com Efeito 
+
 * Aprendizado: 
-1. animation;
-2. transform
+1. :before;
+2. translate;
+3. :hover.
 
 * [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6754162563396775936-_pp1)
 
