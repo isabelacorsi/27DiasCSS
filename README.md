@@ -23,7 +23,7 @@ Os desafios estão listados a seguir.
 1. animation;
 2. transform
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6753829355652202496-DjWs)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio02%20-%20Loading%20Animado)
 
