@@ -27,4 +27,4 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio02%20-%20Loading%20Animado)
 
-![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio02%20-%20Loading%20Animado/gif.gif)
+![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio02%20-%20Loading%20Animado/gif%20(1).gif)
