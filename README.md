@@ -40,4 +40,17 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio03%20-%20Botão%20com%20Efeito)
 
-![desafio02](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio03%20-%20Botão%20com%20Efeito/desafio04%20gif.gif)
+![desafio03](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio03%20-%20Botão%20com%20Efeito/desafio04%20gif.gif)
+
+
+## Desafio Dia 04 - Barra de Pesquisa
+
+* Aprendizado: 
+1. focus;
+2. :hover >
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6754520968036724736-NluM)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio04%20-%20Barra%20de%20Pesquisa)
+
+![desafio04](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio04%20-%20Barra%20de%20Pesquisa/gif.gif)
