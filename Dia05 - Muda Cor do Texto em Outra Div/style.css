@@ -1,0 +1,95 @@
+section{
+	width: 100%;
+	height: 100%;
+	background: #F587F8;
+	box-sizing: border-box;
+  overflow: hidden;
+  position: absolute;
+  color:#8888F8;
+}
+
+.troca{
+	height: 100%;
+	width: 85.71%;
+	background: #8888F8;
+	overflow: hidden;
+	color: #5EA8A9;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+
+.troca2 {
+	height: 100%;
+	width: 71.425%;
+	background: #5EA8A9;
+	overflow: hidden;
+	color: #7EDF7E;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+.troca3{
+	height: 100%;
+	width: 57.14%;
+	background: #7EDF7E;
+	overflow: hidden;
+	color: #FFFF8D;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+.troca4{
+	height: 100%;
+	width: 42.855%;
+	background: #FFFF8D;
+	overflow: hidden;
+	color: #FFB58E;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+.troca5{
+	height: 100%;
+	width: 28.57%;
+	background: #FFB58E;
+	overflow: hidden;
+	color: #FF8B8C;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+.troca6{
+	height: 100%;
+	width: 14.285%;
+	background: #FF8B8C;
+	overflow: hidden;
+	color: #7622FF;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border-right: 2px solid #A3A1A3;
+}
+
+.slide{
+	position: absolute;
+	top:50%;
+	white-space: nowrap;
+	font-size: 200px;
+	line-height: 1.25em;
+	overflow: hidden;
+	font-family: georgia;
+	animation: rolagem 5s linear infinite;
+	animation-direction: alternate; ;
+	animation-delay: 0.2s;
+}
+
+@keyframes rolagem{
+  0%{transform: translate(0, -50%);}
+  100%{transform: translate(-50%, -50%);}
+}
