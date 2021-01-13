@@ -79,4 +79,4 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia06%20-%20Cards%20de%20Roupa)
 
-![desafio06]6https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia06%20-%20Cards%20de%20Roupa/gif.gif)6
+![desafio06]https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia06%20-%20Cards%20de%20Roupa/gif.gif)6
