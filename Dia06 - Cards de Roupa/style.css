@@ -1,0 +1,179 @@
+body{
+	font-family: georgia;
+	margin: 0;
+	padding: 0;
+}
+.centro{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.alinha{
+	display: inline-block;
+}
+
+.card1 {
+  width: 350px;
+  height: 450px;
+  margin-right: 20px;
+}
+
+.card2 {
+  width: 350px;
+  height:450px;
+}
+
+.card1 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card1 img:hover {
+	filter: blur(0.8px);
+}
+
+.card2 img{
+	width: 100%;
+	height: 100%;
+}
+
+.card2 img:hover {
+	filter: blur(0.8px);
+}
+
+.container{
+	width: 0;
+	height: 0;
+	font-size: 0;
+}
+
+.container button {
+	visibility: hidden;
+	font-size: 14px;
+	margin-top: 10px;
+	background: transparent;
+	padding: 5px 10px 5px 10px;
+	border-radius: 20px;
+}
+
+.tamanho {
+	margin-left: 65px;
+} 
+
+/*CARD1*/
+.card1:hover > .container{
+	width: 350px;
+	height: 190px;
+	background: #fff; 
+	font-size: 14px;
+	line-height: 0.25em;
+	color:black;
+	position: absolute;
+	bottom: 0;
+	box-shadow:  0  0 18px 0 rgba(0,0,0,0.5);
+}
+
+.card1:hover > .container button{
+	visibility: visible;
+	position: absolute;
+	bottom: 10px;
+	left: 36%
+}
+
+.card1:hover > .container button:hover{
+	background: #9C5555;
+	color: #fff;
+}
+
+.card1:hover >.container h1 {
+	text-align: center;
+	line-height: 0.5em;
+}
+
+.card1:hover >.container h2{
+	text-align: center;
+	color: #9D3333;
+	font-family: monospace;
+	margin-top: 25px;
+}
+
+.card1:hover >.container p{
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 15px;
+	border:1px solid #565656;
+	padding: 15px;
+	border-radius: 50%;
+	font-size: 14px;
+	color: #565656;
+}
+
+.card1:hover >.container p:hover{
+	background:#C6C6C6;
+	-webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+/*CARD2*/
+.card2:hover > .container{
+	width: 350px;
+	height: 190px;
+	background: #fff; 
+	font-size: 14px;
+	line-height: 0.25em;
+	color:black;
+	position: absolute;
+	bottom:0;
+	box-shadow:  0  0 18px 0 rgba(0,0,0,0.5);
+}
+
+.card2:hover > .container button{
+	visibility: visible;
+	position: absolute;
+	bottom: 10px;
+	left: 36%
+}
+
+.card2:hover > .container button:hover{
+	background: #9C5555;
+	color: #fff;
+}
+
+.card2:hover >.container h1 {
+	text-align: center;
+	line-height: 0.5em;
+}
+
+.card2:hover >.container h2{
+	text-align: center;
+	color: #9C5555;
+	font-family: monospace;
+	margin-top: 25px;
+}
+
+.card2:hover >.container p{
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 15px;
+	border:1px solid #565656;
+	padding: 15px;
+	border-radius: 50%;
+	font-size: 14px;
+	color: #565656;
+}
+
+
+.card2:hover >.container p:hover{
+	background:#C6C6C6;
+	-webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+
+
+
+
