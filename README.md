@@ -54,3 +54,15 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Desafio04%20-%20Barra%20de%20Pesquisa)
 
 ![desafio04](https://github.com/isabelacorsi/30DiasCSS/blob/main/Desafio04%20-%20Barra%20de%20Pesquisa/gif.gif)
+
+## Desafio Dia 05 - Muda cor do texto em outra div
+
+* Aprendizado: 
+1. overflow;
+2. animation;
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6754934865684160512-dGaD)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia05%20-%20Muda%20Cor%20do%20Texto%20em%20Outra%20Div)
+
+![desafio05](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia05%20-%20Muda%20Cor%20do%20Texto%20em%20Outra%20Div/gif%20(1).gif)
