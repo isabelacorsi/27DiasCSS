@@ -66,3 +66,17 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia05%20-%20Muda%20Cor%20do%20Texto%20em%20Outra%20Div)
 
 ![desafio05](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia05%20-%20Muda%20Cor%20do%20Texto%20em%20Outra%20Div/gif%20(1).gif)
+
+## Desafio Dia 06 - Cards de Roupa
+
+* Aprendizado: 
+1. box-shadow;
+2. visibility;
+3. -webkit-transform;
+4. -ms-transform.
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-css-activity-6755246203648188416-2-KQ)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia06%20-%20Cards%20de%20Roupa)
+
+![desafio06]6https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia06%20-%20Cards%20de%20Roupa/gif.gif)6
