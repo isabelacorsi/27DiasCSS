@@ -104,7 +104,8 @@ input::-webkit-input-placeholder {
 }
 
 .btn:hover{
-	box-shadow: 0.8px 0.8px 5px black
+	box-shadow: 0.8px 0.8px 5px black;
+	cursor: pointer;
 }
 
 .baixo p{
