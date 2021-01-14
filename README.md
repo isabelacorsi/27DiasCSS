@@ -80,3 +80,18 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia06%20-%20Cards%20de%20Roupa)
 
 ![desafio06](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia06%20-%20Cards%20de%20Roupa/gif.gif)
+
+
+## Desafio Dia 07 - Tela de Login
+
+* Aprendizado: 
+1. cursor;
+2. outline;
+3. :after;
+4. :before
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6755601346927357952-9Pkl)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia07%20-%20Tela%20de%20Login)
+
+![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia07%20-%20Tela%20de%20Login/gif.gif)
