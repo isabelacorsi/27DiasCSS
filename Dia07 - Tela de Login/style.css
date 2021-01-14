@@ -1,0 +1,117 @@
+body{
+	font-family: sunflower;
+	margin: 0;
+	padding: 0;
+}
+.centro{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.fundo{
+	width: 347px;
+	height: 524px;
+	background:  linear-gradient(127.77deg, #13205B 35.94%, rgba(255, 188, 177, 0.97) 97.84%);
+	border-radius: 20px
+}
+
+.fundo h1{
+	position: absolute;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 30px;
+	color: white;
+	top: 50px;
+	left: 102px;
+}
+
+.fundo h1:before{
+	content: "";
+	display: block;
+	width: 144px;
+	height: 2px;
+	background: white;
+	margin-bottom: 17px;
+}
+
+.fundo h1:after{
+	content: "";
+	display: block;
+	width: 144px;
+	height: 2px;
+	background: white;
+	margin-top: 17px;
+}
+
+.inputs{
+	position: absolute;
+	width: 249px;
+	height: 217px;
+	background: rgba(255, 255, 255, 0.2);
+	border-radius: 30px;
+	top: 175px;
+	left: 49px;
+}
+
+.input{
+	box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+}
+.input{
+	background: transparent;
+	display: inline-block;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.65);
+	font-family: roboto;
+	font-size: 16px;
+	margin-bottom: 17px;
+	margin-top: 17px;
+	position: relative;
+	top: 12px;
+	letter-spacing: 0.10em;
+	padding-left: 15px;
+	padding-bottom: 5px;
+	color: white;
+}
+
+input::-webkit-input-placeholder {
+   color: #e2e2e2;
+}
+
+.linha{
+	width: 232px;
+}
+
+.btn{
+	position: absolute;
+	width: 249px;
+	height: 47px;
+	background: rgba(0, 0, 0, 0.28);
+	border-radius: 30px;
+	top: 420px;
+	left: 49px;
+	box-shadow: 0 0 0 0;
+  border: 0 none;
+  outline: 0;
+  color: white;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+	transition: all 1s ease;
+}
+
+.btn:hover{
+	box-shadow: 0.8px 0.8px 5px black
+}
+
+.baixo p{
+	width: 347px;
+	position: absolute;
+	top: 475px;
+	text-align: center;
+	color: #fff;
+	font-size: 14px;
+}
