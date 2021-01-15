@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #18191f;
+}
+.card{
+    width: 550px;
+    height: 600px;
+    border-radius: 30px;
+    background: rgba(255,255,255,0.2);
+}
+.imagem{
+    width: 500px;
+    height: 400px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 15px;
+}
+
+.espaco{
+    width: 500px;
+    height: 130px;
+    border-radius: 30px;
+    background: rgba(0,0,0,0.4);
+    margin-left: 25px;
+    padding: 25px 0 0 0;
+}
+
+.espaco p{
+    text-align: center;
+    font-family: georgia;
+    font-size: 24px; 
+    color: #9b9b9b;
+}
+
+ul{
+    position: relative;
+    display: flex;
+}
+
+ul li {
+    list-style: none;
+}
+
+
+ul li label input[type="checkbox"]{
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+ul li label .icon {
+    position: relative;
+    width: 70px;
+    height: 50px;
+    background: transparent;
+    font-size: 30px;
+    left: 100%;
+    top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+ul li label input[type="checkbox"]:checked ~ .icon{
+    box-shadow: inset 0px 0px 2px rgba(255,255,255,0.05)
+                inset 4px 4px 6px rgba(0,0,0,0.02);
+}
+
+ul li label input[type="checkbox"]:checked ~ .icon .fa{
+    color: yellow;
+}
+
+ul li label input[type="checkbox"]:not(:checked) ~ .icon .fa{
+    color:#18191f ;
+}
