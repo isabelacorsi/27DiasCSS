@@ -95,3 +95,16 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia07%20-%20Tela%20de%20Login)
 
 ![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia07%20-%20Tela%20de%20Login/gif.gif)
+
+## Desafio Dia 08 - Avaliação
+
+* Aprendizado: 
+1. :checked;
+2. :not(:checked);
+3. min-height
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6755967330276192256-FAa-)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia08%20-%20Avaliação)
+
+![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia08%20-%20Avaliação/gif.gif)
