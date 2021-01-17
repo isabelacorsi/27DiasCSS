@@ -108,3 +108,16 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia08%20-%20Avaliação)
 
 ![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia08%20-%20Avaliação/gif.gif)
+
+## Desafio Dia 09 - Botão com efeito hover e ícones de redes sociais
+
+* Aprendizado: 
+1. z-index;
+2. flex;
+3. :hover
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6756404459544342528-HAON)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais)
+
+![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais/gif%20(1).gif)
