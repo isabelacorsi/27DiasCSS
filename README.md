@@ -125,7 +125,7 @@ Os desafios estão listados a seguir.
 ## Desafio Dia 10 - Preloader
 
 * Aprendizado: 
-1. animatioj;
+1. animation;
 2. transform;
 3. translate;
 4. cubic-bezier
@@ -135,3 +135,17 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia10%20-%20Preloader)
 
 ![desafio07](https://j.gifs.com/ANRz7p.gif)
+
+## Desafio Dia 11 - Tela de Pagamento
+
+* Aprendizado: 
+1. :hover;
+2. transform;
+3. scale;
+4. box-shadow
+
+* [LinkedIn]()
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia11%20-%20Tela%20de%20Pagamento)
+
+![desafio07]()
