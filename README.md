@@ -132,6 +132,6 @@ Os desafios estão listados a seguir.
 
 * [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6756748694554505216-38bv)
 
-* [Código]()
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia10%20-%20Preloader)
 
 ![desafio07](https://j.gifs.com/ANRz7p.gif)
