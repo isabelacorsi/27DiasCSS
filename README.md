@@ -121,3 +121,17 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais)
 
 ![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais/gif%20(1).gif)
+
+## Desafio Dia 10 - Preloader
+
+* Aprendizado: 
+1. animatioj;
+2. transform;
+3. translate;
+4. cubic-bezier
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6756748694554505216-38bv)
+
+* [Código]()
+
+![desafio07](https://j.gifs.com/ANRz7p.gif)
