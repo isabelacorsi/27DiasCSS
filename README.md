@@ -107,7 +107,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia08%20-%20Avaliação)
 
-![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia08%20-%20Avaliação/gif.gif)
+![desafio08](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia08%20-%20Avaliação/gif.gif)
 
 ## Desafio Dia 09 - Botão com efeito hover e ícones de redes sociais
 
@@ -120,7 +120,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais)
 
-![desafio07](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais/gif%20(1).gif)
+![desafio09](https://github.com/isabelacorsi/30DiasCSS/blob/main/Dia09%20-%20Botão%20com%20ícone%20de%20redes%20sociais/gif%20(1).gif)
 
 ## Desafio Dia 10 - Preloader
 
@@ -134,7 +134,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia10%20-%20Preloader)
 
-![desafio07](https://j.gifs.com/ANRz7p.gif)
+![desafio10](https://j.gifs.com/ANRz7p.gif)
 
 ## Desafio Dia 11 - Tela de Pagamento
 
@@ -144,8 +144,8 @@ Os desafios estão listados a seguir.
 3. scale;
 4. box-shadow
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-html5-activity-6757121093774958592-U_cv)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia11%20-%20Tela%20de%20Pagamento)
 
-![desafio07]()
+![desafio11](https://j.gifs.com/71EZ1A.gif)
