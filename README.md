@@ -149,3 +149,17 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia11%20-%20Tela%20de%20Pagamento)
 
 ![desafio11](https://j.gifs.com/71EZ1A.gif)
+
+## Desafio Dia 12 - Menu com dropdown
+
+* Aprendizado: 
+1. nth-child;
+2. opacity;
+3. scale;
+4. text-decoration
+
+* [LinkedIn](https://www.linkedin.com/posts/isabela-corsi-24573b1b8_30diasdecss-html-hmlt5-activity-6757464675329355776-uGz8)
+
+* [Código]()
+
+![desafio11](https://j.gifs.com/YWzKNO.gif)
