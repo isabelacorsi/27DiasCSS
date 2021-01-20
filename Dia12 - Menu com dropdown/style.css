@@ -1,0 +1,102 @@
+.cf:before,
+.cf:after {
+  content: " ";
+  display: table;
+}
+
+.cf:after {
+  clear: both;
+}
+
+.cf {
+  *zoom: 1;
+}
+
+.menu,
+.submenu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.menu {			
+  margin: 50px auto;
+  width: 321px;
+}
+
+.menu > li {
+  background: #596C73;
+  float: left;
+  position: relative;
+}
+
+.menu a {
+  display: block;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'open sans';
+  font-size: 14px;
+}		
+
+.menu li:hover {
+  background: #D99C9C;
+  transform: scale(1.05);
+}		
+
+.menu > li > a {
+  padding: 1em 2em;
+}
+
+
+.submenu {
+  position: absolute;
+  width: 200px;
+  left: 50%; margin-left: -100px;
+
+}
+
+.submenu li {
+  background-color: #DDC3C1;
+  position: relative;
+  overflow: hidden;		
+}						
+
+.submenu > li > a {
+  padding: 1em 2em;			
+}
+
+.submenu > li::after {
+  content: '';
+  position: absolute;
+  top: -125%;
+  height: 100%;
+  width: 100%;						
+}		
+
+.submenu > li:nth-child(odd)::after {
+  right: -50%;
+
+}				
+
+.submenu > li:nth-child(even)::after {
+  left: -50%;
+
+}
+
+.submenu,
+.submenu li {
+  opacity: 0;
+  visibility: hidden;			
+}
+
+.submenu li {
+  transition: .5s ease transform;
+}
+
+.menu > li:hover .submenu,
+.menu > li:hover .submenu li {
+  opacity: 1;
+  visibility: visible;
+}		
+
