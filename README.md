@@ -163,3 +163,33 @@ Os desafios estão listados a seguir.
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia12%20-%20Menu%20com%20dropdown)
 
 ![desafio11](https://j.gifs.com/YWzKNO.gif)
+
+## Desafio Dia 13 - Pêndulo de Newton
+
+* Aprendizado: 
+1. first-child;
+2. last-child;
+3. animation;
+4. translateX
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6757840255270875136-E8m4)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia13%20-%20Pêndulo%20de%20Newton)
+
+![desafio11](https://j.gifs.com/oV3xOj.gif)
+
+## Desafio Dia 14 - Glassmorphism
+
+* Aprendizado: 
+1. first-child;
+2. last-child;
+3. animation;
+4. translateX
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html5-html-activity-6758938335873437696-KZXa)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia14%20-%20%20Glassmorphism)
+
+![desafio11](https://j.gifs.com/MwkYgO.gif)
+
+
