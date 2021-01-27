@@ -1,0 +1,57 @@
+body{
+    background: #FFDFA0
+}
+.esconder-check {
+    width: 0px;
+    height: 0px 
+}
+
+
+.hamburger {
+    margin: 0 auto;
+    margin-top:300px;
+    width: 50px;
+    height: 50px;
+    position: relative;
+}
+
+.hamburger .bar {
+    width: 50px;
+    height: 4px;
+    background-color: #5173A3;
+    display: block;
+    transition: all 0.4s ease-in-out;
+    position: absolute; 
+}
+
+.bar1 {
+    top: 0;
+}
+.bar2,
+.bar3 {
+    top: 23px;
+}
+.bar3 {
+    right: 0;
+}
+.bar4 {
+    bottom: 0;
+}
+
+.checkbox:checked + label > .hamburger > .bar1{
+    transform: translateX(40px);
+    background-color: transparent;
+}
+
+.checkbox:checked + label > .hamburger > .bar2{
+    transform: rotate(45deg);
+}
+
+.checkbox:checked + label > .hamburger > .bar3{
+    transform: rotate(-45deg);
+}
+
+.checkbox:checked + label > .hamburger > .bar4{
+    transform: translateX(-40px);
+    background-color: transparent;
+}
