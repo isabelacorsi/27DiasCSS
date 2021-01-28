@@ -162,7 +162,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia12%20-%20Menu%20com%20dropdown)
 
-![desafio11](https://j.gifs.com/YWzKNO.gif)
+![desafio12](https://j.gifs.com/YWzKNO.gif)
 
 ## Desafio Dia 13 - Pêndulo de Newton
 
@@ -176,7 +176,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia13%20-%20Pêndulo%20de%20Newton)
 
-![desafio11](https://j.gifs.com/oV3xOj.gif)
+![desafio13](https://j.gifs.com/oV3xOj.gif)
 
 ## Desafio Dia 14 - Glassmorphism
 
@@ -190,7 +190,7 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia14%20-%20%20Glassmorphism)
 
-![desafio11](https://j.gifs.com/MwkYgO.gif)
+![desafio14](https://j.gifs.com/MwkYgO.gif)
 
 ## Desafio Dia 15 - Hamburguer Menu
 
@@ -203,6 +203,19 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia15%20-%20Hamburguer%20Menu)
 
-![desafio11](https://j.gifs.com/lxJ2Vr.gif)
+![desafio15](https://j.gifs.com/lxJ2Vr.gif)
+
+## Desafio Dia 16 - Loading Wave
+
+* Aprendizado: 
+1. animation;
+2. overflow;
+3. z-index
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html5-html-activity-6760376633552617472-Ox1t)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia16%20-%20Loading%20Wave)
+
+![desafio16](https://j.gifs.com/VA45Jv.gif)
 
 
