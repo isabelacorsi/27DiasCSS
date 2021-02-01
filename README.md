@@ -219,3 +219,17 @@ Os desafios estão listados a seguir.
 ![desafio16](https://j.gifs.com/VA45Jv.gif)
 
 
+## Desafio Dia 17 - Card Receita
+
+* Aprendizado: 
+1. transform;
+2. seletor;
+3. :hover
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6762061465210929152-TbMz)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia17%20-%20Card%20Receita)
+
+![desafio17](https://j.gifs.com/yoZDvn.gif)
+
+
