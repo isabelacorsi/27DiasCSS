@@ -1,0 +1,109 @@
+body{
+	font-family: georgia;
+	margin: 0;
+	padding: 0;
+}
+
+.centro{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.card {
+  width: 350px;
+  height: 450px;
+  margin-right: 20px;
+}
+
+.imgcard{
+	width: 100%;
+	height: 100%;
+	border-radius: 30px
+}
+
+.imgcard:hover {
+	filter: blur(0.3px);
+}
+
+.seta{
+	width: 40px;
+	height: 40px;
+	position: relative;
+	top: -250px;
+	left: 320px;
+	padding: 10px 10px;
+	background: orange;
+	border-radius: 50%;
+}
+
+.container{
+	width: 0;
+	height: 0;
+	font-size: 0;
+}
+
+.container h1 {
+	text-align: center;
+	line-height: 0.5em;
+	color: #565656
+}
+
+.container h2{
+	margin-left: 20px;
+	color: #565656
+}
+
+.abre:hover > .container h1:after{
+	content: "";
+	display: block;
+	width: 100px;
+	height: 2px;
+	background: #E3E3E3;
+	margin: 20px auto
+}
+
+
+.abre:hover > .container p{
+	margin: 5px 0px;
+	margin-left: 50px;
+	border-left: 2px solid #E3E3E3;
+	font-size: 14px;
+	line-height: 1.4em;
+	padding: 10px 20px;
+	color: #565656
+}
+
+.container ul{
+	margin-top: 25px;
+	margin-bottom: 40px
+}
+
+.container ul li{
+	margin-top: 20px;
+	color: #565656
+}
+
+.imgcard:hover {
+	transform: scale3d(1.1);
+	transform: scale(1.03);
+}
+
+.abre:hover > .container{
+	width: 350px;
+	height: 410px;
+	font-size: 14px;
+	line-height: 0.25em;
+	position: absolute;
+	bottom: 20px;
+	left: 385px;
+	box-shadow:  0  0 18px 0 rgba(0,0,0,0.5);
+	border-radius: 10px;
+}
+
+.seta:hover{
+	transform: scale(1.05);
+	box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
