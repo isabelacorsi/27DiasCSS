@@ -232,4 +232,17 @@ Os desafios estão listados a seguir.
 
 ![desafio17](https://j.gifs.com/yoZDvn.gif)
 
+## Desafio Dia 18 - Botão Saiba Mais
+
+* Aprendizado: 
+1. transform;
+2. transition;
+3. :hover
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6766167471989825536-1nrb)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia18%20-%20Bot%C3%A3o%20Saiba%20Mais)
+
+![desafio17](https://j.gifs.com/OMOM9R.gif)
+
 
