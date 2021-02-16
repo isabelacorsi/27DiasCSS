@@ -243,6 +243,18 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia18%20-%20Bot%C3%A3o%20Saiba%20Mais)
 
-![desafio17](https://j.gifs.com/OMOM9R.gif)
+![desafio18](https://j.gifs.com/OMOM9R.gif)
+
+## Desafio Dia 19 - Texto Neon
+
+* Aprendizado: 
+1. keyframes;
+2. nth-child
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6767235046534365184-Rc4S)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia19%20-%20Texto%20Neon)
+
+![desafio17](https://j.gifs.com/oVDAwj.gif)
 
 
