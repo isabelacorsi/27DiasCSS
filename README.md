@@ -255,6 +255,18 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia19%20-%20Texto%20Neon)
 
-![desafio17](https://j.gifs.com/oVDAwj.gif)
+![desafio19](https://j.gifs.com/oVDAwj.gif)
+
+## Desafio Dia 20 - Barra de Progresso
+
+* Aprendizado: 
+1. keyframes;
+2. flexbox
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6768343107944648704-NmQi)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia20%20-%20Barra%20de%20Peogresso)
+
+![desafio20](https://j.gifs.com/RORnDw.gif)
 
 
