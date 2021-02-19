@@ -1,0 +1,35 @@
+body {
+  justify-content: center;
+  align-items: center;
+  background: #303030;
+  display: flex;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+}
+
+.barra {
+  background:#9b9b9b;
+  justify-content: flex-start;
+  border-radius: 100px;
+  align-items: center;
+  position: relative;
+  padding: 0 5px;
+  display: flex;
+  height: 40px;
+  width: 500px;
+}
+
+.progresso {
+  box-shadow: 0 30px 40px -10px #B261FF;
+  border-radius: 100px;
+  background: #B261FF;
+  height: 30px;
+  width: 0;
+  animation: carrega 3s normal forwards;
+}
+
+@keyframes carrega {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
