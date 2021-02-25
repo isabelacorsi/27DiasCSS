@@ -281,11 +281,11 @@ Os desafios estão listados a seguir.
 
 ![desafio21](https://j.gifs.com/lxz3x1.gif)
 
-## Desafio Dia 21 - ícones com Efeito
+## Desafio Dia 22 - Imagens com Efeito
 
 * Aprendizado: 
-1. keyframes;
-2. :before e :after
+1. input:checked +;
+2. grayscale
 
 * [LinkedIn]()
 
