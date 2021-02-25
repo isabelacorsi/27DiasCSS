@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #18191f;
+}
+.texto h1{
+    font-family: sans-serif;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  color: #fff;
+}
+
+.texto{
+  margin: 0 0 50px 0 
+}
+
+.images-selector{
+  background: rgba(255,255,255,0.2);
+  padding: 30px 20px 10px 20px;
+  border-radius: 30px;
+}
+.images-selector input {
+  position: absolute;
+  z-index: 10;
+}
+
+.images-selector input:checked + .img-card {
+  filter: none;
+  transform: scaleY(1);
+}
+
+.img-card {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  transition: all 200ms ease-in;
+  filter: grayscale(1) opacity(.8);
+  padding: 10px ;
+  margin: 0 30px;
+}
+
+.img-card:hover {
+  filter: grayscale(0) opacity(1);
+}
+
+
+.img1 {
+  width: 150px;
+  height: 150px;
+  background-image: url("globo.png");
+  position: relative;
+  top: 40px
+}
+
+.img2 {
+  width: 150px;
+  height: 150px;
+  background-image: url("netflix.png");
+}
+
+.img3 {
+  width: 150px;
+  height: 150px;
+  background-image: url("prime.png");
+  position: relative;
+  top: 40px
+}
+
+.img4 {
+  width: 150px;
+  height: 150px;
+  background-image: url("disney.png");
+}
