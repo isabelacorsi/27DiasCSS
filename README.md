@@ -279,6 +279,18 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia21%20-%20%C3%ADcone%20com%20efeito)
 
-![desafio20](https://j.gifs.com/lxz3x1.gif)
+![desafio21](https://j.gifs.com/lxz3x1.gif)
+
+## Desafio Dia 21 - ícones com Efeito
+
+* Aprendizado: 
+1. keyframes;
+2. :before e :after
+
+* [LinkedIn]()
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia22%20-%20Imagem%20com%20efeito)
+
+![desafio22](https://j.gifs.com/ZY3jp2.gif)
 
 
