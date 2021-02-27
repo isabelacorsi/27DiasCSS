@@ -287,7 +287,7 @@ Os desafios estão listados a seguir.
 1. input:checked +;
 2. grayscale
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6771255745775251456-OwUw)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia22%20-%20Imagem%20com%20efeito)
 
