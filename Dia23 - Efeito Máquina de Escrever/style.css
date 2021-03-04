@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: calc(100vh - 8em);
+  padding: 2em;
+  color: #1e1e1e;
+  font-family: "Courier Prime";
+  background-color: #e9e9e9;
+  text-transform: uppercase;
+}
+
+.linha {
+  position: relative;
+  top: 50%;
+  width: 11em;
+  margin: 0 14em;
+  border-right: 2px solid #1e1e1e;
+  font-size: 300%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateX(-50%);
+  color: #1e1e1e;
+}
+
+.maquina {
+  animation: maquinaesc 4s steps(40) 1s 1 normal both,
+    blinkTextCursor 500ms steps(40) infinite normal;
+}
+
+@keyframes maquinaesc {
+  from {
+    width: 0;
+  }
+  to {
+    width: 14em;
+  }
+}
+
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: #1e1e1e;
+  }
+  to {
+    border-right-color: transparent;
+  }
+}
