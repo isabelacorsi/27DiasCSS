@@ -293,4 +293,16 @@ Os desafios estão listados a seguir.
 
 ![desafio22](https://j.gifs.com/ZY3jp2.gif)
 
+## Desafio Dia 23 - Efeito Máquina de Escrever
+
+* Aprendizado: 
+1. keyframes;
+2. animation
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-css-activity-6773071206439546880-ixzL)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia23%20-%20Efeito%20M%C3%A1quina%20de%20Escrever)
+
+![desafio23](https://j.gifs.com/K1M8AG.gif)
+
 
