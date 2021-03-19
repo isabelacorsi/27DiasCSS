@@ -305,4 +305,15 @@ Os desafios estão listados a seguir.
 
 ![desafio23](https://j.gifs.com/K1M8AG.gif)
 
+## Desafio Dia 24 - Loading
+
+* Aprendizado: 
+1. keyframes;
+2. animation
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html5-html-activity-6778469147136335872-vlmK)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia24%20-%20Loading)
+
+![desafio24](https://j.gifs.com/q7P7DD.gif)
 
