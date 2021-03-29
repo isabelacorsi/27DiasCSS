@@ -330,3 +330,15 @@ Os desafios estão listados a seguir.
 
 ![desafio25](https://j.gifs.com/GvPjQ3.gif)
 
+## Desafio Dia 26 - Efeito Polaroid
+
+* Aprendizado: 
+1. box-shadow;
+2. transition;
+
+* [LinkedIn]()
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia26%20-%20Efeito%20Polaroid)
+
+![desafio25](https://j.gifs.com/nxMp7P.gif)
+
