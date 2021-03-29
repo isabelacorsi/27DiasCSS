@@ -317,3 +317,16 @@ Os desafios estão listados a seguir.
 
 ![desafio24](https://j.gifs.com/q7P7DD.gif)
 
+## Desafio Dia 25 - Botão com Efeito Líquido
+
+* Aprendizado: 
+1. flexbox;
+2. z-index;
+3. :after :before
+
+* [LinkedIn]()
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia25%20-%20Bot%C3%A3o%20com%20Efeito%20L%C3%ADquido)
+
+![desafio25](https://j.gifs.com/GvPjQ3.gif)
+
