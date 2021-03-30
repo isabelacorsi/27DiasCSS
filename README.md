@@ -324,7 +324,7 @@ Os desafios estão listados a seguir.
 2. z-index;
 3. :after :before
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-css-activity-6782456606610247680-B5SV)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia25%20-%20Bot%C3%A3o%20com%20Efeito%20L%C3%ADquido)
 
