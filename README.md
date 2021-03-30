@@ -336,7 +336,7 @@ Os desafios estão listados a seguir.
 1. box-shadow;
 2. transition;
 
-* [LinkedIn]()
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6782813065843933184-34gM)
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia26%20-%20Efeito%20Polaroid)
 
