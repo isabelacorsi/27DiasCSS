@@ -340,5 +340,18 @@ Os desafios estão listados a seguir.
 
 * [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia26%20-%20Efeito%20Polaroid)
 
-![desafio25](https://j.gifs.com/nxMp7P.gif)
+![desafio26](https://j.gifs.com/nxMp7P.gif)
+
+## Desafio Dia 27 - Card Hover
+
+* Aprendizado: 
+1. :hover;
+2. transform;
+3. 3.box-sizing
+
+* [LinkedIn](https://www.linkedin.com/posts/isabelacorsi_30diasdecss-html-html5-activity-6788464130585104384-YytG)
+
+* [Código](https://github.com/isabelacorsi/30DiasCSS/tree/main/Dia27%20-%20Card%20Hover)
+
+![desafio27](https://j.gifs.com/6XLJDl.gif)
 
