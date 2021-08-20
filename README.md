@@ -1,6 +1,6 @@
-# Desafio 30 Dias de CSS :bangbang:
+# Desafio 27 Dias de CSS :bangbang:
 
-O Desafio 30 Dias de CSS, consiste em  todos os dias é realizar um pequeno e simples projeto que busca utilizar diversas ferramentos tanto do HTML como do CSS, visando melhorar e aprimorar as tecnicas de programação. :rocket:
+O Desafio 27 Dias de CSS, consiste em  todos os dias é realizar um pequeno e simples projeto que busca utilizar diversas ferramentos tanto do HTML como do CSS, visando melhorar e aprimorar as tecnicas de programação. :rocket:
 
 
 Os desafios estão listados a seguir.
